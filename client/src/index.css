@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: "Abril";
+  src: local("Abril"),
+   url("./fonts/AbrilFatface/AbrilFatface-Regular.ttf") format("truetype");
+  
+  }
